@@ -16,6 +16,3 @@
 3. Enable APIs and services for Google Drive API and Google Sheets API
 4. Create New Credentials. Choose Service Account
 5. Then create json key, click your new credential, choose KEYS, click add key and Create new key. Choose json and the json key will be downloaded. Change the json key name to be credentials.json and put it in the main directory.
-
-## Spreadsheet
-This code point to the spreadsheet in https://docs.google.com/spreadsheets/d/187-gHKnBh4IaKYbuYO56-dOi0kExPYByuWsLyQWmZps/edit?usp=sharing
